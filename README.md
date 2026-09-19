@@ -68,11 +68,6 @@ que ese día no tiene valor.
 | `abstracciones_L_s` | Las mismas, en caudal medio del día |
 | `evaluable` | `si` cuando el balance puede evaluarse ese día |
 
-## Cómo se produjeron
-
-Con `anexos_series.py`, que recorta al periodo del documento y convierte unidades sobre
-dos salidas del proyecto: la depuración de la serie de nivel y la corrida vigente del
-balance, con el coeficiente de descarga del orificio en 0,594.
 
 ## Verificación
 
